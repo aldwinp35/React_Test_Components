@@ -6,9 +6,9 @@ import {
   // DataTableExample,
   // DatepickerExample,
   // ModalExample,
-  ModalExampleWithPicker
+  ModalExampleWithPicker,
   // SortableExample,
-  // SelectExample
+  SelectExample
 } from "./components";
 
 import "./styles.css";
@@ -29,7 +29,7 @@ export default function App() {
             {/* <ModalExample /> */}
             <ModalExampleWithPicker />
             {/* <SortableExample /> */}
-            {/* <SelectExample /> */}
+            <SelectExample />
           </div>
         </div>
       </div>
